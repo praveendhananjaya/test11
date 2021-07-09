@@ -22,8 +22,8 @@ jobs:
         java-version: '11'
         distribution: 'adopt'
     - name: Grant execute permission for gradlew
-      working-directory: ./software
-      run: chmod +x gradlew
+
+      run: chmod +x software/gradlew
     - name: Build with Gradle
-      working-directory: ./software
-      run: gradlew build
+      working-directory: software
+      run: software/gradlew build
