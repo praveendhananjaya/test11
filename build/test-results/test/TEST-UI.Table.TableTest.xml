@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UI.Table.TableTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-09T17:25:33" hostname="praveen-HP-Pavilion-Laptop-15-cc1xx" time="0.021">
+  <properties/>
+  <testcase name="test1()" classname="UI.Table.TableTest" time="0.021"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
