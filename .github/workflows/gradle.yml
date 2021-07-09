@@ -25,5 +25,5 @@ jobs:
 
       run: chmod +x software/gradlew
     - name: Build with Gradle
-      working-directory: software
+
       run: software/gradlew build
