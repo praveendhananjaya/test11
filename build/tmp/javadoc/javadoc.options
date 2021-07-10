@@ -1,7 +1,0 @@
--classpath '/home/praveen/IdeaProjects/CO328_Footwear_Shop_System/software/build/classes/java/main:/home/praveen/IdeaProjects/CO328_Footwear_Shop_System/software/build/resources/main'
--d '/home/praveen/IdeaProjects/CO328_Footwear_Shop_System/software/build/docs/javadoc'
--doctitle 'software 1.0-SNAPSHOT API'
--notimestamp 
--quiet 
--windowtitle 'software 1.0-SNAPSHOT API'
-'/home/praveen/IdeaProjects/CO328_Footwear_Shop_System/software/src/main/java/UI/Table/Table.java'
